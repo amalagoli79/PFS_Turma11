@@ -6,16 +6,16 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "TesteMstest/1.0.0": {
+      "TesteMsTest/1.0.0": {
         "dependencies": {
           "MSTest.TestAdapter": "2.2.8",
           "MSTest.TestFramework": "2.2.8",
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "TurmaOiAplicTestes": "1.0.0",
+          "PFS-Turma11_ProjTeste": "1.0.0",
           "coverlet.collector": "3.1.2"
         },
         "runtime": {
-          "TesteMstest.dll": {}
+          "TesteMsTest.dll": {}
         }
       },
       "coverlet.collector/3.1.2": {},
@@ -1077,15 +1077,15 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "TurmaOiAplicTestes/1.0.0": {
+      "PFS-Turma11_ProjTeste/1.0.0": {
         "runtime": {
-          "TurmaOiAplicTestes.dll": {}
+          "PFS-Turma11_ProjTeste.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TesteMstest/1.0.0": {
+    "TesteMsTest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1706,7 +1706,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "TurmaOiAplicTestes/1.0.0": {
+    "PFS-Turma11_ProjTeste/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

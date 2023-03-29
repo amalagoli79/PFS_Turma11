@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaBJ12eE5XmnCFCsH48inRPQvBUzwPAgpXGLsIn68Dwb3w49s5N759nIqehbTn8GKY8DhhfxdtWH9X5wZB66Ew==",
+  "dgSpecHash": "ngezd4ikp/MwO/pccUlBOveZ1Ilp/YX+az+Sa9wHpcOv55+snfTQG3pJkE7/YOys4mXuAPBlC1hD6cOsKMTA2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteXUnit\\TesteXUnit.csproj",
+  "projectFilePath": "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\TesteXUnit\\TesteXUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\senaisp\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\senaisp\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

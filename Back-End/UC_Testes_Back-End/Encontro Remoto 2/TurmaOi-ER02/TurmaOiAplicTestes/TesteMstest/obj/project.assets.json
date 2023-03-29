@@ -1789,14 +1789,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "TurmaOiAplicTestes/1.0.0": {
+      "PFS-Turma11_ProjTeste/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/TurmaOiAplicTestes.dll": {}
+          "bin/placeholder/PFS-Turma11_ProjTeste.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TurmaOiAplicTestes.dll": {}
+          "bin/placeholder/PFS-Turma11_ProjTeste.dll": {}
         }
       }
     }
@@ -6336,10 +6336,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "TurmaOiAplicTestes/1.0.0": {
+    "PFS-Turma11_ProjTeste/1.0.0": {
       "type": "project",
-      "path": "../TurmaOiAplicTestes/TurmaOiAplicTestes.csproj",
-      "msbuildProject": "../TurmaOiAplicTestes/TurmaOiAplicTestes.csproj"
+      "path": "../PFS-Turma11_ProjTeste/PFS-Turma11_ProjTeste.csproj",
+      "msbuildProject": "../PFS-Turma11_ProjTeste/PFS-Turma11_ProjTeste.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6347,7 +6347,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
-      "TurmaOiAplicTestes >= 1.0.0",
+      "PFS-Turma11_ProjTeste >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteMstest\\TesteMstest.csproj",
-      "projectName": "TesteMstest",
-      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteMstest\\TesteMstest.csproj",
+      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\TesteMsTest\\TesteMsTest.csproj",
+      "projectName": "TesteMsTest",
+      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\TesteMsTest\\TesteMsTest.csproj",
       "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TesteMstest\\obj\\",
+      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\TesteMsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6378,8 +6378,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj": {
-              "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\10-01-23\\TurmaOi-GitHub\\UC_Testes_Back-End\\Encontro Remoto 2\\TurmaOi-ER02\\TurmaOiAplicTestes\\TurmaOiAplicTestes\\TurmaOiAplicTestes.csproj"
+            "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\PFS-Turma11_ProjTeste\\PFS-Turma11_ProjTeste.csproj": {
+              "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\28-03-23\\PSF_Turma11\\PFS-Turma11_ProjTeste\\PFS-Turma11_ProjTeste\\PFS-Turma11_ProjTeste.csproj"
             }
           }
         }
@@ -6427,7 +6427,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

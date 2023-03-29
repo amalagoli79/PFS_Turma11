@@ -1,39 +1,43 @@
-using TurmaOiAplicTestes;
+using PFS_Turma11_ProjTeste;
 
-namespace TesteMstest
+namespace TesteMsTest
 {
     [TestClass]
-    public class TesteCalcMsTest
+    public class TesteCalcMstest
     {
         [TestMethod]
-        public void TesteSomarDoisNumeros()
+        public void TestMethod1()
         {
+            //3A
+
             //Arrange - Preparação
-            double pNum = 1;
+            double pNum = 2; 
             double sNum = 1;
-            double rNum = 2;
+            double rNum = 3;
 
             //Act - Ação
             var resultado = Calculadora.Somar(pNum, sNum);
 
-            //Assert - Verificação
-            Assert.AreEqual(rNum, resultado);
 
+            //Assert - Verificações
+            Assert.AreEqual(resultado, rNum);
         }
 
+        //Arrange - Preparação
         [DataTestMethod]
-        [DataRow(1, 2, 3)]
+        [DataRow(2, 1, 3)]
         [DataRow(2, 2, 4)]
         [DataRow(2, 5, 7)]
 
         public void TesteSomarDoisNumerosLista(double pNum, double sNum, double rNum)
         {
-            //AA
-            //Act
+            //Act - Ação
             var resultado = Calculadora.Somar(pNum, sNum);
 
-            //Assert
-            Assert.AreEqual(rNum, resultado);
+
+            //Assert - Verificações
+            Assert.AreEqual(resultado, rNum);
         }
+        
     }
 }

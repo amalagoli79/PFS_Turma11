@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TurmaOiAplicTestes\TurmaOiAplicTestes.csproj" />
+    <ProjectReference Include="..\PFS-Turma11_ProjTeste\PFS-Turma11_ProjTeste.csproj" />
   </ItemGroup>
 
 </Project>
